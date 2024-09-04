@@ -1,6 +1,6 @@
 #!/bin/bash
 
-datasets=('yelp2018' 'amazon-book')
+datasets=('yelp2018' 'amazon-book' 'ml-20m')
 levels=('drop' 'cross' 'prune')
 
 for dataset in "${datasets[@]}"; do
