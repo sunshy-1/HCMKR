@@ -5,6 +5,7 @@ This is the Pytorch implementation for our *ECML_PKDD'24* paper: **Hyperbolic Co
 ![Framework](fig/framework.png)
 
 ## Enviroment Requirement
+    # More details can be seen in ./code/packages.txt.
     torch==1.8.1+cu111 
     torch-cluster==1.5.9  
     torch-scatter==2.0.6  
