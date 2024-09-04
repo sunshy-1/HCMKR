@@ -1,7 +1,7 @@
 ## Hyperbolic Contrastive Learning with Model-Augmentation for Knowledge-Aware Recommendation (HCMKR)
 
 This is the Pytorch implementation for our *ECML_PKDD'24* paper: **Hyperbolic Contrastive Learning with Model-Augmentation for Knowledge-Aware Recommendation**.
-![Framework](pic/framework.png)
+![Framework](fig/framework.png)
 
 ## Enviroment Requirement
     torch==1.8.1+cu111 
