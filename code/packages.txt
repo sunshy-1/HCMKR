@@ -1,0 +1,88 @@
+# packages in environment at ./anaconda3/envs/hcmkr:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main    defaults
+aiosignal                 1.3.1                     <pip>
+attrs                     22.2.0                    <pip>
+ca-certificates           2023.01.10           h06a4308_0    defaults
+certifi                   2022.12.7        py38h06a4308_0    defaults
+charset-normalizer        3.1.0                     <pip>
+click                     8.1.3                     <pip>
+colorlog                  6.7.0                     <pip>
+contourpy                 1.0.7                     <pip>
+cppimport                 22.8.2                    <pip>
+cycler                    0.11.0                    <pip>
+distlib                   0.3.6                     <pip>
+filelock                  3.10.7                    <pip>
+fonttools                 4.39.3                    <pip>
+frozenlist                1.3.3                     <pip>
+google-auth-oauthlib      1.0.0                     <pip>
+googledrivedownloader     0.4                       <pip>
+idna                      3.4                       <pip>
+importlib-resources       5.12.0                    <pip>
+isodate                   0.6.1                     <pip>
+Jinja2                    3.1.2                     <pip>
+joblib                    1.2.0                     <pip>
+jsonschema                4.17.3                    <pip>
+kiwisolver                1.4.4                     <pip>
+kmeans-pytorch            0.3                       <pip>
+ld_impl_linux-64          2.38                 h1181459_1    defaults
+libffi                    3.3                  he6710b0_2    defaults
+libgcc-ng                 9.1.0                hdf63c60_0    defaults
+libstdcxx-ng              9.1.0                hdf63c60_0    defaults
+llvmlite                  0.39.1                    <pip>
+Mako                      1.2.4                     <pip>
+matplotlib                3.7.1                     <pip>
+msgpack                   1.0.5                     <pip>
+ncurses                   6.3                  h7f8727e_2    defaults
+networkx                  3.1                       <pip>
+numba                     0.56.4                    <pip>
+numpy                     1.23.5                    <pip>
+oauthlib                  3.2.2                     <pip>
+openssl                   1.1.1t               h7f8727e_0    defaults
+packaging                 23.0                      <pip>
+pandas                    2.0.0                     <pip>
+Pillow                    9.5.0                     <pip>
+pip                       23.0.1           py38h06a4308_0    defaults
+pkgutil_resolve_name      1.3.10                    <pip>
+platformdirs              3.2.0                     <pip>
+protobuf                  3.20.3                    <pip>
+psutil                    5.9.4                     <pip>
+pybind11                  2.10.4                    <pip>
+pyparsing                 3.0.9                     <pip>
+pyrsistent                0.19.3                    <pip>
+python                    3.8.13               h12debd9_0    defaults
+python-louvain            0.16                      <pip>
+PyYAML                    6.0                       <pip>
+ray                       2.3.1                     <pip>
+rdflib                    6.3.2                     <pip>
+readline                  8.1.2                h7f8727e_1    defaults
+requests                  2.28.2                    <pip>
+scikit-learn              1.2.2                     <pip>
+scipy                     1.10.1                    <pip>
+seaborn                   0.10.0                    <pip>
+setuptools                65.6.3           py38h06a4308_0    defaults
+six                       1.16.0                    <pip>
+sqlite                    3.38.5               hc218d9a_0    defaults
+tabulate                  0.9.0                     <pip>
+tensorboard               2.12.1                    <pip>
+tensorboardX              2.6                       <pip>
+texttable                 1.6.7                     <pip>
+thop-0.1.1                2209072238                <pip>
+threadpoolctl             3.1.0                     <pip>
+tk                        8.6.12               h1ccaba5_0    defaults
+torch                     1.8.1+cu111               <pip>
+torch-cluster             1.5.9                     <pip>
+torch-geometric           1.7.2                     <pip>
+torch-scatter             2.0.6                     <pip>
+torch-sparse              0.6.11                    <pip>
+torch-spline-conv         1.2.1                     <pip>
+torchvision               0.9.1+cu111               <pip>
+tqdm                      4.65.0                    <pip>
+typing_extensions         4.5.0                     <pip>
+tzdata                    2023.3                    <pip>
+urllib3                   1.26.15                   <pip>
+virtualenv                20.21.0                   <pip>
+wheel                     0.38.4           py38h06a4308_0    defaults
+xz                        5.2.5                h7f8727e_1    defaults
+zlib                      1.2.12               h7f8727e_2    defaults
