@@ -21,7 +21,7 @@ Benefiting from the effectiveness of graph neural networks (GNNs) and contrastiv
 
 ## Dataset
 
-We provide three [processed datasets](https://drive.google.com/file/d/1qQpQL02qzmLN5DWQ204o4h-gV3y9D2hs/view?usp=sharing) (yelp2018, amazon-book, and ml-20m). You can download them from link, and put them in the file ./code.
+We provide three processed datasets (yelp2018, amazon-book, and ml-20m). You can download them from [link](https://drive.google.com/file/d/1qQpQL02qzmLN5DWQ204o4h-gV3y9D2hs/view?usp=sharing), and put them in the file ./code.
 
 ## Run the Code
     cd code && bash performance.sh
