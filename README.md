@@ -33,7 +33,7 @@ We provide three processed datasets (yelp2018, amazon-book, and ml-20m). You can
 You are welcome to cite our paper:
 ```
 @inproceedings{hcmkr2024,
-  author = {Sun, Shengyin and Ma, Chen},
+  author = {Sun, Shengyin and Chen, Ma},
   title = {Hyperbolic Contrastive Learning with Model-Augmentation for Knowledge-Aware Recommendation},
   year = {2024},
   booktitle = {Machine Learning and Knowledge Discovery in Databases},
