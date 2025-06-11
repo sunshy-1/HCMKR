@@ -4,6 +4,7 @@
 [![preprint](https://img.shields.io/badge/Preprint'24-EE4C2C)](https://arxiv.org/html/2505.08157v1)
 [![DASFAA](https://img.shields.io/badge/ECML--PKDD-2024-B57EDC)](https://ecmlpkdd.org/2024/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+![](https://img.shields.io/github/stars/sunshy-1/HCMKR?style=social) 
 
 This is the Pytorch implementation for our *ECML-PKDD'24* paper: [**Hyperbolic Contrastive Learning with Model-Augmentation for Knowledge-Aware Recommendation**](https://arxiv.org/abs/2505.08157). 
 
